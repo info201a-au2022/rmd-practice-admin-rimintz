@@ -1,5 +1,5 @@
 # A brief analysis of the NYT COVID-19 data
-
+# add a comment
 # Load the tidyverse package
 library(tidyverse)
 
