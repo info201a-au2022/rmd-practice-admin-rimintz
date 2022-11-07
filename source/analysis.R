@@ -13,7 +13,7 @@ get_total_cases <- function() {
     pull(cases)
   return(prettyNum(total_cases,big.mark=",",scientific=FALSE))
 }
-print(get_total_cases)
+print(get_total_cases) 
 
 ?prettyNum()
 
